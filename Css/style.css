@@ -1,0 +1,43 @@
+ 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:lightsalmon;
+    color:black;
+}
+.parentBox{
+    width: 80%;
+    margin: 0 auto;
+}
+.watchTask{
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 30px;
+    background-color:brown;
+    color: darkorange;
+}
+.second{
+    background-color:yellow;
+    color:red;
+}
+.fotter{
+    margin-top: 1em;
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
